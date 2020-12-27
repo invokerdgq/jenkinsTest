@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>客户痛苦和空调好痛苦好痛苦好看</h1>
+    <h1>客wedwedwedwedw好痛苦好看</h1>
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js + TypeScript App"/>
   </div>
